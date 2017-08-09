@@ -7,3 +7,6 @@ Classe RestService retorna lista de Objects(Tipo .class que recebe como parâmet
 Chamada server CallBack RestServiceListener
 Dados armazenados em Preferences(SharedPreferences)
 Imagens download e cache pela API Glide(com.github.bumptech.glide:glide:3.7.0)
+
+Alterar ServerUrlEnun
+    API_IP("http://<<<ipServer>>>:8080/api/");
