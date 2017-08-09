@@ -7,7 +7,7 @@ package com.pushfirebase.tiware.dextradesafio.enuns;
 public enum ServerUrlEnun {
 
 
-    API_IP("http://192.168.0.5:8080/api/");
+    API_IP("http://000.000.0.0:8080/api/");
 
     private String codigo;
 
