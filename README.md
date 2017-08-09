@@ -1,7 +1,7 @@
 # Desafio-Dextra
 
 Arquitetura MVP.
-Fragments.
+Fragments, RecicleView
 Acesso servidor pela classe IngredienteService,LancheService
 Classe RestService retorna lista de Objects(Tipo .class que recebe como parâmetro)
 Chamada server CallBack RestServiceListener
